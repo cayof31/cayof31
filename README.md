@@ -1,7 +1,4 @@
-<!-- Visitor Counter -->
-<p align="right">
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/cayof31&count_bg=%237F7FFF&title_bg=%23555555&icon=github.svg&icon_color=%23FFFFFF&title=visits&edge_flat=false"/>
-</p>
+![profile counter](https://komarev.com/ghpvc/?username=cayof31)
 
 ## Hi there, I'm Cayo Correia 👋
 
