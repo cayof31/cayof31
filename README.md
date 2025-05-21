@@ -1,3 +1,8 @@
+<!-- Visitor Counter -->
+<p align="right">
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/cayof31&count_bg=%237F7FFF&title_bg=%23555555&icon=github.svg&icon_color=%23FFFFFF&title=visits&edge_flat=false"/>
+</p>
+
 ## Hi there, I'm Cayo Correia 👋
 
 🎓 I'm a 21-year-old Computer Science student from Brazil and a passionate Full-stack Developer.  
@@ -27,3 +32,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=cayof31&show_icons=true&theme=tokyonight" alt="Cayo's GitHub Stats"/>
 </p>
 
+### 📫 Let's Connect!
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cayof04/)
+[![Email](https://img.shields.io/badge/Email-red?style=flat&logo=gmail&logoColor=white)](mailto:cayofelipe31@gmail.com)
