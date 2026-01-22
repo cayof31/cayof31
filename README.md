@@ -2,7 +2,7 @@
 
 ## Hi there, I'm Cayo Correia 👋
 
-🎓 I'm a 21-year-old Computer Science student from Brazil and a passionate Full-stack Developer.  
+🎓 Computer Science student from Brazil and a passionate Full-stack Developer.  
 💻 I love building things that live on the web — from responsive front-ends to scalable back-ends.  
 🚀 Always learning and exploring new technologies to level up my dev skills.
 
