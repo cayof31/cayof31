@@ -23,11 +23,7 @@
 
 ---
 
-<!-- opcional: GitHub Stats -->
-### 📈 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=cayof31&show_icons=true&theme=tokyonight" alt="Cayo's GitHub Stats"/>
-</p>
+
 
 ### 📫 Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cayof04/)
